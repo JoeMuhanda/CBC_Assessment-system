@@ -24,7 +24,6 @@ class LearnerPortfolio:
         else:
             print(f"Artifact '{artifact}' not found in {self.learner_name}'s portfolio.")
 
-# Example usage
 portfolio = LearnerPortfolio("John Doe")
 portfolio.add_artifact("Assignment 1")
 portfolio.add_artifact("Project presentation")
