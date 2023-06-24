@@ -19,7 +19,7 @@
 
       <form method="GET" class="navbar-form navbar-right" role="search" action="/search/" required>
         <div class="form-group ">
-          <input type="text" class="form-control" placeholder="Product Search" value="" name="q">
+          <input type="text" class="form-control" placeholder="Learner ID" value="" name="ID">
             <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span>Search</button>
         </div>
 
@@ -70,14 +70,14 @@
     <h1>Products</h1>
     
         <div class="item" style="margin: 5px;">
-            <a href="/2/large-pizza/"><img src="/media/products/22/12/17/pizzaa.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
+            <a href="/2/large-pizza/"><img src="/media/learner/22/12/17/pizzaa.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
             <a href="/2/large-pizza/">Large-Pizza</a>
             <br>
             $10.00
         </div>
     
         <div class="item" style="margin: 5px;">
-            <a href="/3/small-pizza/"><img src="/media/products/22/12/17/pizza_AUPC7R1.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
+            <a href="/3/small-pizza/"><img src="/media/learner/22/12/17/user1_AUPC7R1.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
             <a href="/3/small-pizza/">small-pizza</a>
             <br>
             $45.00
