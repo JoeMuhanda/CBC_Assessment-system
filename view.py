@@ -70,7 +70,7 @@
     <h1>Products</h1>
     
         <div class="item" style="margin: 5px;">
-            <a href="/2/large-pizza/"><img src="/media/learner/22/12/17/pizzaa.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
+            <a href="/2/large-pizza/"><img src="/media/learner/22/12/17/learner.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
             <a href="/2/large-pizza/">Large-Pizza</a>
             <br>
             $10.00
