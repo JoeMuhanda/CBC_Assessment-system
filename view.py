@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <title>
-     Products 
+   dashboard
 </title>
     <link href="/static/css/base.css" rel="stylesheet">
 </head>
