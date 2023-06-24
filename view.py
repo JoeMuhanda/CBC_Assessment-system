@@ -75,20 +75,23 @@
             <br>
             Name
         </div>
-    
-        <div class="item" style="margin: 5px;">
-            <a href="/3/small-pizza/"><img src="/media/learner/22/12/17/user1_AUPC7R1.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
-            <a href="/3/small-pizza/">small-pizza</a>
+
+    <div class="item" style="margin: 5px;">
+            <a href="/2/Learner/"><img src="/media/learner/22/12/17/learner.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
+            <a href="/2/Learner">Learner</a>
             <br>
-            $45.00
+            Name
+        </div>
+
+
+        <div class="item" style="margin: 5px;">
+            <a href="/2/Learner/"><img src="/media/learner/22/12/17/learner.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
+            <a href="/2/Learner">Learner</a>
+            <br>
+            Name
         </div>
     
-        <div class="item" style="margin: 5px;">
-            <a href="/4/wing/"><img src="/media/products/22/12/17/kfc.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
-            <a href="/4/wing/">wing</a>
-            <br>
-            $10.00
-        </div>
+        
     
     </div>
 
