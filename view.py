@@ -11,7 +11,7 @@
 
 <body>
 <div id="header" style="background-color: #666666;">
- <span class="logo"><a href="/" style="color: #ffefef;">E-Com Trial</a></span>
+ <span class="logo"><a href="/" style="color: #ffefef;">CBC Assesment</a></span>
     <div class="search-bar mt-sm-2 mr-2 text-center" style="max-width: 500px; width: 100%;">
 
  
@@ -50,15 +50,9 @@
     
     </div>
     <div id="sidebar">
-    <h3>Categories</h3>
+    <h3>user_ID</h3>
     <ul>
-        <li  class="selected">
-        <a href="/">All</a>
-        </li>
-    
-        <li >
-        <a href="/kfc/">KFC</a>
-        </li>
+        
     
         <li >
         <a href="/learner/">name</a>
@@ -67,7 +61,7 @@
     </ul>
     </div>
     <div id="main" class="Module">
-    <h1>Products</h1>
+    <h1>users</h1>
     
         <div class="item" style="margin: 5px;">
             <a href="/2/Learner/"><img src="/media/learner/22/12/17/learner.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
