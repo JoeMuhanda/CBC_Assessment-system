@@ -73,7 +73,7 @@
             <a href="/2/Learner/"><img src="/media/learner/22/12/17/learner.png" alt="" width="275" height="275" style="border-radius: 5px;"></a>
             <a href="/2/Learner">Learner</a>
             <br>
-            $10.00
+            Name
         </div>
     
         <div class="item" style="margin: 5px;">
