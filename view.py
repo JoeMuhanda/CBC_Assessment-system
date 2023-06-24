@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,10 +37,9 @@
 </div>
 <div id="subheader">
 
-    <div class="cart">
+    <div class="learners">
         
-            
-                Your cart is Empty.
+        Add a learner
             
         
     </div>
@@ -64,12 +61,12 @@
         </li>
     
         <li >
-        <a href="/pizza/">Pizza</a>
+        <a href="/learner/">name</a>
         </li>
     
     </ul>
     </div>
-    <div id="main" class="product-list">
+    <div id="main" class="Module">
     <h1>Products</h1>
     
         <div class="item" style="margin: 5px;">
