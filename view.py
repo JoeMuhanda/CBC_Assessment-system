@@ -85,7 +85,6 @@
             Name
         </div>
     
-        tt
     
     </div>
 
