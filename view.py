@@ -85,9 +85,7 @@
             Name
         </div>
     
-        ttt
-
-
+        tt
     
     </div>
 
